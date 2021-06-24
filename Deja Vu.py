@@ -11,4 +11,4 @@ for i in letters:
 if count==len(letters):
     print("Unique")
 else:
-    print("Deja Vu")
+    print("Not Unique")
